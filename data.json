@@ -1,0 +1,8 @@
+{
+    "tiendas": {
+        "nombres": ["falabella", "ripley"]
+    },
+    "ciudades":  {
+        "nombres": ["valparaiso","viña", "santiago"]
+    }
+}
